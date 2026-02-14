@@ -17,7 +17,7 @@ fx_version 'cerulean'
 version '3.1.4'
 author 'Russo AP'
 description 'FXServer Logs By Russo AP'
-repository ' '
+repository ' https://github.com/Ajmi-Russo/Russo-Logs '
 
 
 dependency 'yarn'
