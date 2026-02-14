@@ -62,8 +62,8 @@ ServerFunc.CreateLog = function(data)
                     description = data.EmbedMessage,
                     color = ConvertColor(color),
                     footer = {
-                        text = "russo_logs V" .. GetResourceMetadata(GetCurrentResourceName(), 'version') .. "  •  Made by russo",
-                        icon_url = "https://russo.com/assets/favicon/apple-touch-icon.png"
+                        text = "russo_logs V" .. GetResourceMetadata(GetCurrentResourceName(), 'version') .. "  •  Powered By @Russo",
+                        icon_url = "https://cdn.discordapp.com/avatars/768941626990526484/e0fe9a875da3cd79e7184bc05f4ab146.webp?size=1024"
                     },
                     timestamp = os.date("%Y-%m-%d") .. "T" ..os.date("%H:%M:%S") .. ".0000".. Config.TimezoneOffset
                 }
