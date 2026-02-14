@@ -14,7 +14,7 @@
     ╚══════════════════════════════════════════════════════════╝ --]]
 
 fx_version 'cerulean'
-version '3.1.4'
+version '1.3.5'
 author 'Russo AP'
 description 'FXServer Logs By Russo AP'
 repository ' https://github.com/Ajmi-Russo/Russo-Logs '
