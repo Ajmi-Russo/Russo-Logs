@@ -1,0 +1,101 @@
+{
+  "newInstall": false,
+  "all": {
+    "channelId": "1431624756939198514",
+    "color": "#A1A1A1",
+    "embed": true
+  },
+  "system": {
+    "channelId": "1431624835045527634",
+    "icon": "🧾",
+    "color": "#A1A1A1",
+    "embed": true
+  },
+  "imageStore": {
+    "channelId": "1431624894583672932",
+    "webhookID": "",
+    "webhookToken": ""
+  },
+  "chat": {
+    "channelId": "1431624953970557111",
+    "icon": "💬",
+    "color": "#A1A1A1",
+    "logHistory": true,
+    "embed": true
+  },
+  "join": {
+    "channelId": "1431625002683203584",
+    "icon": "📥",
+    "color": "#3AF241",
+    "logHistory": true,
+    "embed": true
+  },
+  "leave": {
+    "channelId": "1431625049219141795",
+    "icon": "📤",
+    "color": "#F23A3A",
+    "logHistory": true,
+    "embed": true
+  },
+  "death": {
+    "channelId": "1431625102197260398",
+    "icon": "💀",
+    "color": "#000000",
+    "logHistory": true,
+    "embed": true
+  },
+  "shooting": {
+    "channelId": "1431625157729845358",
+    "icon": "🔫",
+    "color": "#2E66F2",
+    "logHistory": false,
+    "embed": true
+  },
+  "resource": {
+    "channelId": "1431625205746237572",
+    "icon": "🔧",
+    "color": "#EBEE3F",
+    "logHistory": true,
+    "embed": true
+  },
+  "nameChange": {
+    "channelId": "1431625261903909005",
+    "icon": "💠",
+    "color": "#03FC98",
+    "logHistory": true,
+    "embed": true
+  },
+  "explosion": {
+    "channelId": "1431625309505192026",
+    "icon": "🧨",
+    "color": "#03FC98",
+    "logHistory": true,
+    "embed": true
+  },
+  "permission": {
+    "channelId": "1431625372960821289",
+    "icon": "🔒",
+    "color": "#03FC98",
+    "logHistory": true,
+    "embed": true
+  },
+  "screenshot": {
+    "channelId": "1431625415457378336",
+    "icon": "📸",
+    "color": "#A1A1A1",
+    "logHistory": false,
+    "embed": true
+  },
+  "txAdmin": {
+    "channelId": "1431625473452150858",
+    "icon": "💻",
+    "color": "#FFFFFF",
+    "embed": true
+  },
+  "damage": {
+    "channelId": "1431625523918016552",
+    "icon": "🩸",
+    "color": "#FF0000",
+    "embed": true
+  }
+}
